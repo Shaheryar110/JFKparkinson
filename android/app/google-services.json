@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523185247793",
+    "project_id": "jfkparkinsons",
+    "storage_bucket": "jfkparkinsons.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523185247793:android:f8c52730967b7a92c96710",
+        "android_client_info": {
+          "package_name": "com.jfkparkinson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523185247793-5rb4crouedc3rvtbij080e5d84sp8k3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKq27ExaB230PqZ49SEwaUndVnXxnzTrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523185247793-5rb4crouedc3rvtbij080e5d84sp8k3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
